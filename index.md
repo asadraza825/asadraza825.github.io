@@ -1,5 +1,5 @@
 <h1><i>Asad Raza</i></h1>
-<h2><i>About<i></h2>
+<h2><i>About</i></h2>
   <p>
      I have more than 8 years working experience, 5 years experience in web design and development and nearly 3 years in government department. I am computer science enthusiast and looking for exciting opportunity in Computer Science or related field.
   </p>
